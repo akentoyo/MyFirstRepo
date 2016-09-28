@@ -1,5 +1,8 @@
 Test file 1
 
-Bla bla bla
+blaw blaw blaw - feature conflict 
+
+also add another line here
+and here
 
 git 
