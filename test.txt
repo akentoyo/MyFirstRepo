@@ -1,6 +1,9 @@
 Test file 1
 
-Bla bla bla
+blaw blaw blaw - feature conflict 
+
+also add another line here
+and here
 
 I am just adding lines
 I bet the other programmer is replacing stuff       
