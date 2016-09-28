@@ -2,4 +2,7 @@ Test file 1
 
 Bla bla bla
 
+I am just adding lines
+I bet the other programmer is replacing stuff       
+
 git 
